@@ -1,0 +1,26 @@
+div{
+    position: absolute;
+    width: 1440px;
+    height: 166px;
+    left:0px;
+    top: 0px;
+    background: #c4c4c4;
+}
+div{
+    position: absolute;
+    width: 155px;
+    height: 56px;
+    left: 642px;
+    top: 55px;
+
+    font-family: roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #ffffff;
+}
+
+
+
